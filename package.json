@@ -1,0 +1,20 @@
+{
+  "name": "MossFrpWiki",
+  "version": "0.1.4",
+  "description": "MossFrp Wiki",
+  "main": "index.js",
+  "author": "MossMC Team",
+  "license": "LGPL-3.0",
+  "devDependencies": {
+    "@vuepress/plugin-search": "^2.0.0-beta.33",
+    "vuepress": "^2.0.0-beta.33"
+  },
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "dependencies": {
+    "ant-design-vue": "^2.2.8",
+    "babel-plugin-import": "^1.13.3"
+  }
+}
