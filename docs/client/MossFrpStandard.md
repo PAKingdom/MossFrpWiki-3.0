@@ -66,10 +66,10 @@
 ```
 请输入#确认 来确认你的操作，若输入有误，请重新使用创建激活码指令创建！
 ```
-### 我们发送确认即可创建激活码。那我们怎么获取我们的激活码呢
-### 有两种方法
-### 第一种方法，私聊BOT(机器人)发送 #激活码列表
-### 第二种方法，群聊私聊都行。发送 #激活码邮件 过一会你就会在邮箱里收到您的激活码了
+ -  我们发送确认即可创建激活码。那我们怎么获取我们的激活码呢
+ -  有两种方法
+ -  第一种方法，私聊BOT(机器人)发送 #激活码列表
+ -  第二种方法，群聊私聊都行。发送 #激活码邮件 过一会你就会在邮箱里收到您的激活码了
 ```
 MossFrp 激活码列表
 [正常][sc1-4204716]
@@ -79,12 +79,10 @@ MossFrp 激活码列表
 剩余天数：3
 ```
 ## MossFrpStandard使用方法 ##
-[warn-block]你必须拥有Java8+才能使用此程序！[/warn-block]
+你必须拥有Java8+才能使用此程序！
 等待更新中....(挖大坑)
 
-
-
-    [1]: https://pakingdom-img-blog.mcpa.top/typecho/uploads/2022/01/   718261011.png?_upt=43b6883d1642609551
+  [1]: https://pakingdom-img-blog.mcpa.top/typecho/uploads/2022/01/718261011.png?_upt=43b6883d1642609551
   [2]: https://pakingdom-img-blog.mcpa.top/typecho/uploads/2022/01/1642558953.png?_upt=d1ccbed41642609551
   [3]: https://pakingdom-img-blog.mcpa.top/typecho/uploads/2022/01/2798976860.png?_upt=b810bf1d1642609796
   [4]: https://pakingdom-img-blog.mcpa.top/typecho/uploads/2022/01/589416404.png?_upt=5e41bed71642609848
