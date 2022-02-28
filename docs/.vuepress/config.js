@@ -34,8 +34,11 @@ module.exports = {
             },
             {
                 text: '使用客户端',
-                collapsible: true,
-                children: ['/client/windows.md', '/client/linux.md'],
+                collapsible: false,
+                children: ['/client/windows.md', '/client/linux.md','/client/MossFrpStandard.md','MossFrp_Client.md'],
+            },
+            {
+                text: ''
             },
             {
                 text: 'FAQ',
