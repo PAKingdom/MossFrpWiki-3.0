@@ -3,6 +3,13 @@ module.exports = {
     lang: 'zh-CN',
     title: 'MossFrp Wiki',
     description: 'MossFrp 官方文档',
+    configureWebpack: {
+      resolve: {
+        alias: {
+          '@pubilc': 'pubilc/'
+        }
+      },
+    },
     plugins: [
         [
           '@vuepress/plugin-search',
@@ -19,7 +26,7 @@ module.exports = {
     // 主题和它的配置
     theme: '@vuepress/theme-default',
     themeConfig: {
-        logo: 'https://mossmirror.heycrab.xyz/static/img/bigmoshou.jpg',
+        logo: 'bigmoshou.jpg',
         nav: [
           { text: "首页", link: "/" },
           { text: "Mossfrp官网", link: "https://baidu.com" },
@@ -35,7 +42,7 @@ module.exports = {
             {
                 text: '使用客户端',
                 collapsible: false,
-                children: ['/client/windows.md', '/client/linux.md','/client/MossFrpStandard.md','MossFrp_Client.md'],
+                children: ['/client/windows.md', '/client/linux.md','/client/MossFrpStandard.md','/client/MossFrp_Client.md'],
             },
             {
                 text: ''

@@ -1,13 +1,15 @@
-# MossFrp_Client
+# MossFrp_Client.exe
  1. 介绍MossFrp_Client与MossFrp_Client_Fastv区别
  2. 亲妈使用教程与详细讲解(挖大坑)
  3. 使用视频介绍(有必要？)
  - 两个版本的区别 ##
-![1.png](https://pakingdom-img-blog.mcpa.top/typecho/uploads/2022/01/156648540.png?_upt=097cb8071646029956))
-> 两个版本本质上没有区别，一个会保留上一次的文件，一个不会
-讲人话就是一个用完就扔，一个你可以留着继续用
-唯一缺点，仅支持Windows
+![1.png](/a9gcr-reh83.png)
+::: tip
+ - 两个版本本质上没有区别，一个会保留上一次的文件，一个不会
+ - 讲人话就是一个用完就扔，一个你可以留着继续用
+ - 唯一缺点，仅支持Windows
  - 本文讲述的是MossFrp_Client！其实教程都通用的！
+:::
 ## 在下载完成后启动会弹出以下内容 ##
 
 ```

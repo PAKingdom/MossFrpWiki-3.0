@@ -1,24 +1,24 @@
-# MossFrpStandard
+# MossFrpStandard.jar
 ## 前言
  1. 下载与注册
  2. Frp运行以及创建隧道
  3. 使用MossFrpStandard进行联机
  4. 末尾附带解说视频
  5. 固定端口教程(直接滑到最底下)
-[warn]本文讲述的是MossFrpStandard.jar！请注意区分名字[/warn]
+::: danger
+本文讲述的是MossFrpStandard.jar！请注意区分名字
+:::
 篇幅较长，耐心观看
-[collapse title="血压高了"]
-由于注册与创建繁琐，所以有了这篇教程
-[/collapse]
 想必你看到这篇教程已经是进入群聊了，没进也没关系[点我加入qq群](https://jq.qq.com/?_wv=1027&k=sozDAsfN)
-### 进入后找一只活着的机器人注册账号(这两只谁活着找谁)
+## 注册
+### 进入后找一只的机器人注册账号(现已更改为有管理的机器人)
 | MossFrp内网穿透BOT1号 | MossFrp内网穿透BOT2号 |
 | -------------------- | -------------------- |
-![MossFrp内网穿透BOT1号.png][1]|![MossFrp内网穿透BOT2号.png][2]
+![bot1.png](/bot1.png)|![bot2.png](/bot2.png)
 ### 对着聊天框发送 #注册
-![注册.png][3]
+![注册.png](/reg1.png)
 ### 对着聊天框发送 #确认
-![确认注册.png][4]
+![确认注册.png](/reg2.png)
 ### 对着聊天框发送 #签到
 以此来白嫖银币
 ## 帮助列表 (在交流群发送 #帮助 即可随时获取此表单)
@@ -82,7 +82,7 @@ MossFrp 激活码列表
 你必须拥有Java8+才能使用此程序！
 等待更新中....(挖大坑)
 
-  [1]: https://pakingdom-img-blog.mcpa.top/typecho/uploads/2022/01/718261011.png?_upt=43b6883d1642609551
-  [2]: https://pakingdom-img-blog.mcpa.top/typecho/uploads/2022/01/1642558953.png?_upt=d1ccbed41642609551
-  [3]: https://pakingdom-img-blog.mcpa.top/typecho/uploads/2022/01/2798976860.png?_upt=b810bf1d1642609796
-  [4]: https://pakingdom-img-blog.mcpa.top/typecho/uploads/2022/01/589416404.png?_upt=5e41bed71642609848
+## 视频
+等不及不如看看视频？
+[Windows从加群注册到开服联机完整视频教程](https://www.bilibili.com/video/BV1q3411e7m8/)
+
