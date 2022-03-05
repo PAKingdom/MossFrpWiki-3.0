@@ -3,13 +3,6 @@ module.exports = {
     lang: 'zh-CN',
     title: 'MossFrp Wiki',
     description: 'MossFrp 官方文档',
-    configureWebpack: {
-      resolve: {
-        alias: {
-          '@pubilc': 'pubilc/'
-        }
-      },
-    },
     plugins: [
         [
           '@vuepress/plugin-search',
