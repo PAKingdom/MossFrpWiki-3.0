@@ -1,6 +1,6 @@
 {
   "name": "mossfrp-wiki",
-  "version": "1.0.0",
+  "version": "3.1.0",
   "description": "MossFrp Wiki",
   "main": "index.js",
   "scripts": {

@@ -1,7 +1,7 @@
 module.exports = {
     lang: 'zh-CN',
     title: 'MossFrp Wiki 3.1',
-    
+    base: '/MossFrpWiki-3.0/',
     plugins: [
       [
         '@vuepress/plugin-search',
@@ -20,7 +20,7 @@ module.exports = {
       ],
     ],
     themeConfig: {
-        logo: 'bigmoshou.jpg',
+        logo: '/bigmoshou.jpg',
         navbar: [
           { text: "首页", link: "/" },
           { text: "Mossfrp官网", link: "https://baidu.com" },
