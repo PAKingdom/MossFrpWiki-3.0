@@ -1,7 +1,8 @@
 module.exports = {
     lang: 'zh-CN',
     title: 'MossFrp Wiki 3.1',
-    base: '/MossFrpWiki-3.0/',
+    base: '/', 
+    bundler: '@vuepress/bundler-webpack',
     plugins: [
       [
         '@vuepress/plugin-search',
