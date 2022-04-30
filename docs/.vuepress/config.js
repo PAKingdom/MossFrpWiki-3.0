@@ -46,7 +46,7 @@ module.exports = {
             },
             {
                 text: '客户端',
-                children: ['/client/MossFrp_Client','/client/MossFrp_Client_Fastv','/client/MossFrpStandard','/client/MossFrpPlugin'],
+                children: ['/client/MossFrpJava.jar.md','/client/MossFrp_Client','/client/MossFrp_Client_Fastv','/client/MossFrpStandard','/client/MossFrpPlugin'],
             },
             {
                 text: '旧教程(能用！)',
