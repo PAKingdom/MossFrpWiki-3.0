@@ -17,7 +17,5 @@ tip: 天数不得小于3
 ```
 # 选择你的客户端
 #### [(推荐)MossFrpJava.jar](/client/MossFrpJava.jar.md)
-#### [MossFrp_Client](/client/#MossFrp_Client)
-#### [MossFrp_Client_Fastv](/client/#MossFrp_Client_Fastv)
-#### [MossFrpStandard](/client/#MossFrpStandard)
-#### [MossFrpPlugin](/client/#MossFrpPlugin)
+#### [MossFrp_Client](/old/MossFrp_Client.md)
+#### [MossFrp_Client_Fastv](/client/MossFrp_Client_Fastv.md)

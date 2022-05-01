@@ -3,6 +3,12 @@ module.exports = {
     title: 'MossFrp Wiki 3.1',
     base: '/', 
     bundler: '@vuepress/bundler-webpack',
+    head: [
+      [
+        'link',
+        { rel: 'icon' , href: 'bigmoshou.jpg'}
+      ]
+    ],
     plugins: [
       [
         '@vuepress/plugin-search',
@@ -46,12 +52,12 @@ module.exports = {
             },
             {
                 text: '客户端',
-                children: ['/client/MossFrpJava.jar.md','/client/MossFrp_Client','/client/MossFrp_Client_Fastv','/client/MossFrpStandard','/client/MossFrpPlugin'],
+                children: ['/client/MossFrpJava.jar.md','/old/MossFrp_Client.md','/client/MossFrp_Client_Fastv'],
             },
             {
                 text: '旧教程(能用！)',
                 collapsible: false,
-                children: ['/old/windows.md', '/old/linux.md','/old/MossFrpStandard.md','/old/MossFrp_Client.md'],
+                children: ['/old/MossFrpStandard.md'],
             },
             {
                 text: 'FAQ',
