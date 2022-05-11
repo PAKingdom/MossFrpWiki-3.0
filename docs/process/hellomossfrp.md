@@ -15,7 +15,5 @@
 tip: 天数不得小于3
 反之会提示：只能创建3-360天的穿透码！
 ```
-# 选择你的客户端
-#### [(推荐)MossFrpJava.jar](/client/MossFrpJava.jar.md)
-#### [MossFrp_Client](/old/MossFrp_Client.md)
-#### [MossFrp_Client_Fastv](/client/MossFrp_Client_Fastv.md)
+# 选择你的使用方法
+## [点我](/client/navigation.md)

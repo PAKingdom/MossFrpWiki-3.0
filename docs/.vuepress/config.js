@@ -47,12 +47,12 @@ module.exports = {
                 children: ['/process/reg.md', '/process/help.md','/process/hellomossfrp.md'],
             },
             {
-                text: 'MossFrp Bot命令大全',
-                children: ['/bothelp/readme.md'],
+                text: '客户端/使用方法',
+                children: ['/client/navigation.md','/client/MossFrpJava-win.md','/client/MossFrpJava-linux.md','/client/MossFrpJava-client.md','/client/MossFrpJava-plugins.md','/client/MossFrp.exe.md','/old/MossFrp_Client.md','/client/MossFrp_Client_Fastv'],
             },
             {
-                text: '客户端',
-                children: ['/client/MossFrpJava.jar.md','/old/MossFrp_Client.md','/client/MossFrp_Client_Fastv'],
+              text: 'MossFrp Bot命令大全',
+              children: ['/bothelp/readme.md'],
             },
             {
                 text: '旧教程(能用！)',

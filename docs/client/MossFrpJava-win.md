@@ -1,4 +1,4 @@
-# (推荐)MossFrpJava.jar
+# (Win)MossFrpJava.jar
 食用方法：[下载](https://baidu.com) #待补链
 ## 前言
 Windows 系统是不自带Java运行时环境的，所以我们需要自行去下载<br>
